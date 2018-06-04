@@ -17,7 +17,7 @@ namespace ContinuousWeb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "HEHEHEHHE....Test t";
+            ViewData["Message"] = "HEHEHEHHE....Test t Gaib";
 
             return View();
         }
